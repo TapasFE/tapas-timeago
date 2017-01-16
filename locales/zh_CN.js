@@ -1,3 +1,5 @@
+'use strict';
+
 const formatTime = require('..');
 
 formatTime.strings = {

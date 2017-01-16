@@ -1,3 +1,5 @@
+'use strict';
+
 function substitute(template, value) {
   value = Math.round(value);
   if (Array.isArray(template)) {
