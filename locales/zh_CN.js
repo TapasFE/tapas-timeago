@@ -1,6 +1,6 @@
 'use strict';
 
-const formatTime = require('..');
+var formatTime = require('..');
 
 formatTime.strings = {
   justNow: '刚刚',
